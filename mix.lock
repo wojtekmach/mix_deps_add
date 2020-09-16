@@ -1,0 +1,4 @@
+%{
+  "fix": {:git, "https://github.com/wojtekmach/fix.git", "2aeaa32b031ae97060e284d026e899345f988f0c", []},
+  "hex_core": {:hex, :hex_core, "0.6.10", "87b34adfb6c42dc2d94c8f39df083570b4630c2ff9dde3698be091c170ed72af", [:rebar3], [], "hexpm", "d0902085cb5db1fc70d2dae9a3207346b8e968ddbea84ba709b9c8017990882a"},
+}
